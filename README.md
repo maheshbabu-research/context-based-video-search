@@ -18,8 +18,8 @@ Context Based Youtube Video Search
 
 ---
 ### Overview
-This project aims to Enable precise video moment search using natural language and context-aware NLP.
-for e.g. searching movie videos by dialogues or music videos by lyrics to view the Most Viewed, Most Liked and Most Recent Youtube videos
+This project aims to Enable **precise video moment search using natural language and context-aware NLP**.
+for e.g. **searching movie videos by dialogues or music videos by lyrics** to view the **Most Viewed, Most Liked and Most Recent** Youtube videos
 by leveraging Generative AI (ChatGPT) and other transformer models and Reinforcement Learning.
 The project also aims to implement video transcript search and video topics timestamps to be able to quickly view relevant video clips inside the video.
 
@@ -128,14 +128,6 @@ To run the chatbot application, follow these steps:
   - Video Transcript & Video Seek
   - Choice of ML Approaches
   - Model Evaluation: BLEU Score and Perplexity Score
-
-### Team Members
-
-Mahesh Babu • Keerthana • Arkabo Biswas
-
-### Acknowledgments
-We would like to thank to our Instructor and project advisor Dr. Raj Garg for his invaluable guidance and support throughout the project.
-Additionally, we would like to extend special thanks to YouTube team for catering us such a valuable resource for conducting our research. 
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
